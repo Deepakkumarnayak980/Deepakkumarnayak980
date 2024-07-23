@@ -36,7 +36,7 @@
 
 
 
-(https://activity-graph.herokuapp.com/graph?username=deepakkumarnatak980a&&theme=xcode)](https://github.com/Deepakkumarnayak980)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
 
